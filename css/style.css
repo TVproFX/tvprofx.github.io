@@ -1,0 +1,11 @@
+* {
+	margin: 0;
+}
+
+header {
+	height: 30vh;
+	background-color: dodgerblue;
+	background-image: url(/img/logo.jpg);
+	background-size: cover;
+	background-position: center;
+}
