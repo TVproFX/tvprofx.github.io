@@ -2,8 +2,9 @@
 	margin: 0;
 }
 
-header {
-	height: 30vh;
+.logo {
+	width: 1140px;
+	height: 100vh;
 	background-color: dodgerblue;
 	background-image: url(/img/logo.jpg);
 	background-size: cover;
